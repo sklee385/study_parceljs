@@ -1,3 +1,3 @@
-import './index.css';
-console.log("hello");
+import './styles.css';
+console.log("hello ts");
 
